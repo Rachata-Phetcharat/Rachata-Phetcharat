@@ -16,12 +16,6 @@
 
 I'm a **Computer Engineering student** at King Mongkut's University of Technology North Bangkok with a passion for building scalable solutions and solving complex problems. Currently in my final year, I combine strong technical skills with hands-on experience in IT support and software development.
 
-- 🎓 **Current GPA:** 3.21
-- 💼 **Former IT Support Intern** at New Technology Information Co., Ltd.
-- 🌱 Currently exploring **RAG-based AI systems** and **full-stack development**
-- 💡 I love learning new technologies and adapting to challenges
-- 🤝 Strong believer in collaboration and continuous improvement
-
 ---
 
 ## 🛠️ Technical Skills
@@ -66,47 +60,6 @@ Built a comprehensive platform that allows users to interact with AI trained on 
 
 **Tech Stack:** RAG Architecture, Vector Database, Full-Stack Framework
 
----
-
-## 💼 Professional Experience
-
-### IT Support Intern
-**New Technology Information Co., Ltd.** | *Dec 2023 - Feb 2024*
-
-- 🖥️ Configured static IP addresses for office workstations ensuring stable network connectivity
-- 🔧 Performed hardware preventive maintenance to extend device lifespan
-- ⚡ Conducted system optimization by removing temporary files and improving performance
-- 🔋 Diagnosed and repaired UPS units to protect equipment from power surges
-
----
-
-## 🎯 Soft Skills
-
-```javascript
-const mySkills = {
-  activelearning: "Always seeking new knowledge",
-  collaboration: "Team player with strong communication",
-  problemSolving: "Analytical thinking and debugging",
-  adaptability: "Quick to learn and adjust to new environments"
-};
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rachata-Phetcharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rachata-Phetcharat&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats-fast.herokuapp.com/?user=Rachata-Phetcharat&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
@@ -119,15 +72,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  **Thanks for visiting my profile! 😊**
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Rachata-Phetcharat/count.svg)
-
-</div>

@@ -5,8 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-rachata.phetcharat%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rachata.phetcharat@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Bang%20Bua%20Thong%2C%20Nonthaburi-blue?style=flat-square&logo=google-maps)](https://maps.google.com)
-  [![Phone](https://img.shields.io/badge/Phone-093--147--7105-green?style=flat-square&logo=phone)](tel:0931477105)
 
 </div>
 
@@ -44,21 +42,6 @@ I'm a **Computer Engineering student** at King Mongkut's University of Technolog
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
-
-## 🚀 Featured Project
-
-### 🤖 Multi-User RAG Chatbot Platform
-**A scalable RAG-based platform for AI-powered document interaction**
-
-Built a comprehensive platform that allows users to interact with AI trained on private datasets, featuring:
-
-- ✨ **Multi-user workspace management** with granular access control
-- 📚 **Secure document indexing** for precise information retrieval
-- 💬 **Channel-based organization** for better conversation management
-- 🔐 **Enterprise-grade security** and user authentication
-- 🎯 **Private dataset training** for customized AI responses
-
-**Tech Stack:** RAG Architecture, Vector Database, Full-Stack Framework
 
 ## 📫 Let's Connect!
 

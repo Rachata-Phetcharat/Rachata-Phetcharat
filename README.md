@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Support+Specialist;Always+Learning+New+Things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-rachata.phetcharat%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rachata.phetcharat@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Bang%20Bua%20Thong%2C%20Nonthaburi-blue?style=flat-square&logo=google-maps)](https://maps.google.com)
@@ -97,11 +97,11 @@ const mySkills = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachata-Phetcharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Rachata-Phetcharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachata-Phetcharat&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rachata-Phetcharat&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachata-Phetcharat&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats-fast.herokuapp.com/?user=Rachata-Phetcharat&theme=tokyonight&hide_border=true)
 
 </div>
 

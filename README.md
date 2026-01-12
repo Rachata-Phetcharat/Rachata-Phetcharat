@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** at King Mongkut's University of Technology North Bangkok with a passion for building scalable solutions and solving complex problems. Currently in my final year, I combine strong technical skills with hands-on experience in IT support and software development.
+I'm a **Electronics Computer Technology student** at King Mongkut's University of Technology North Bangkok with a passion for building scalable solutions and solving complex problems. Currently in my final year, I combine strong technical skills with hands-on experience in IT support and software development.
 
 ---
 

@@ -1,8 +1,8 @@
-# Hi there, I'm Rachat Phetcharat 👋
+# Hi there, I'm Rachata Phetcharat 👋
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;Always+Learning+New+Things;Software+Development)](https://git.io/typing-svg)
   
   [![Email](https://img.shields.io/badge/Email-rachata.phetcharat%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rachata.phetcharat@gmail.com)
 
@@ -12,7 +12,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Electronics Computer Technology student** at King Mongkut's University of Technology North Bangkok with a passion for building scalable solutions and solving complex problems. Currently in my final year, I combine strong technical skills with hands-on experience in IT support and software development.
+I'm a **final-year Electronics Computer Technology student** at King Mongkut's University of Technology North Bangkok (KMUTNB). My main focus and passion lie in **Software Development**, where I enjoy the process of turning complex ideas into scalable and efficient solutions.
+
+I love exploring modern frameworks, improving my coding practices, and solving challenging problems. I'm always looking for opportunities to learn new technologies and build software that provides a great user experience.
+
+* 🎓 Final year student at KMUTNB
+* 💡 Focused on Software Development & Modern Web Technologies
+* 🚀 Passionate about clean code and scalable architecture
 
 ---
 
@@ -30,9 +36,7 @@ I'm a **Electronics Computer Technology student** at King Mongkut's University o
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
